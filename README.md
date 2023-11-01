@@ -1,5 +1,4 @@
 # get-next-line
-[![tclement's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl59lbrtc003009jqom2qgm4z/project/1905467)](https://github.com/JaeSeoKim/badge42)<br>
 ***The aim of this project is to code a function that returns a line ending with a newline, read from a file descriptor.***
 
 This project also introduces the concept of static variables in C programming.
